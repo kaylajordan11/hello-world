@@ -1,6 +1,4 @@
 <h1> Easy Pumpkin Pie Recipe <h1>
-
-<p> This is a short paragraph, <p>
   
 <h2> Prep: 5 min    Total: 3hr 10 min <h2>
   
