@@ -20,9 +20,9 @@
   
   <strong> 1 <strong> <small> pie crust <small>
   
-  <p1>1. Heat oven to 425. mix all filling ingredients and pour it into the pie crust.<p2>
-  <p3>2. Bake for 15 minutes then turn the heat down 350 degreese and bake for an aditional 40 - 50 minutes.<p3>
-  <p4>3. Let it cool for 2 hours.<p4>
-  <p5>4. Store in the refigerator.<p5>
+  <li> 1. Heat oven to 425. mix all filling ingredients and pour it into the pie crust. <li>
+  <li> 2. Bake for 15 minutes then turn the heat down 350 degreese and bake for an aditional 40 - 50 minutes. <li>
+  <li> 3. Let it cool for 2 hours. <li>
+  <li> 4. Store in the refigerator.<li>
  
                  
