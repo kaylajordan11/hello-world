@@ -1,3 +1,3 @@
-Hello, world!
+<h1> Hello, world! <h1>
 
-This is a short paragraph, 
+<p> This is a short paragraph, <p>
