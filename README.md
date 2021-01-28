@@ -18,7 +18,7 @@
   
   <strong> 1 <strong> <small> pie crust <small>
   
-  <h1< Steps <h1>
+  <h1> Steps <h1>
   
   <li> 1. Heat oven to 425. mix all filling ingredients and pour it into the pie crust. 
   <li> 2. Bake for 15 minutes then turn the heat down 350 degreese and bake for an aditional 40 - 50 minutes. 
