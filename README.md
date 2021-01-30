@@ -4,21 +4,21 @@
   
  <h1> Ingredients <h1>
   
- <strong> 3/4 <strong> <small> cup sugar <small>
-
-  <strong> 1 1/2 <strong> <small> teaspoons pumpkin pie sauce <small>
+ <strong> 3/4 <strong> <small> cup sugar
   
-  <strong> 1/2 <strong> <small> teaspoon salt <small>
+  <strong> 1 1/2 <strong> <small> teaspoons pumpkin pie sauce
   
-  <strong> 1 <strong> <small> can (15 oz) pumpkin <small>
+  <strong> 1/2 <strong> <small> teaspoon salt
   
-  <strong> 1 1/4 <strong> <small> cups evaporated milk or half and half <small>
+  <strong> 1 <strong> <small> can (15 oz) pumpkin 
   
-  <strong> 2 <strong> <small> eggs, beaten <small>
+  <strong> 1 1/4 <strong> <small> cups evaporated milk or half and half
   
-  <strong> 1 <strong> <small> pie crust <small>
+  <strong> 2 <strong> <small> eggs, beaten
   
-  <small> whipped cream <small>
+  <strong> 1 <strong> <small> pie crust
+  
+  <small> whipped cream 
   
   <h2> Steps <h2>
   
