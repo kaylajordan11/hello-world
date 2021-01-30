@@ -4,19 +4,19 @@
   
  <h1> Ingredients <h1>
   
- <strong> 3/4 <small> cup sugar
+ <strong> 3/4 <strong> <small> cup sugar
   
-  <strong> 1 1/2 <small> teaspoons pumpkin pie sauce
+  <strong> 1 1/2 <strong> <small> teaspoons pumpkin pie sauce
   
-  <strong> 1/2 <small> teaspoon salt
+  <strong> 1/2 <strong> <small> teaspoon salt
   
-  <strong> 1 <small> can (15 oz) pumpkin 
+  <strong> 1 <strong> <small> can (15 oz) pumpkin 
   
-  <strong> 1 1/4 <small> cups evaporated milk or half and half
+  <strong> 1 1/4 <strong> <small> cups evaporated milk or half and half
   
-  <strong> 2 <small> eggs, beaten
+  <strong> 2 <strong> <small> eggs, beaten
   
-  <strong> 1 <small> pie crust
+  <strong> 1 <strong> <small> pie crust
   
   <small> whipped cream 
   
@@ -27,6 +27,7 @@
   <li> 3. Let it cool for 2 hours. 
   <li> 4. Store in the refigerator.
   <li> 5. Add desired amount of whipped cream to each slice and enjoy!
+    
  
     
  
