@@ -1,5 +1,14 @@
+/*
+hexadecimal color:
+black 0123456789abcdef white 
+*/
+
+body {
+  background-color: #fcc
+}
+
 h1 {
-  font-family: sans-serif; 
+  font-family: monospace; 
 }
 
 h2 {
