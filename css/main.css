@@ -4,7 +4,7 @@ black 0123456789abcdef white
 */
 
 body {
-  background-color: #faa;
+  background-color: #eaa;
 }
 
 h1 {
@@ -12,10 +12,6 @@ h1 {
 }
 
 h2 {
-   font-family: fantasy;
-}
-
-h3 {
    font-family: fantasy;
 }
 
